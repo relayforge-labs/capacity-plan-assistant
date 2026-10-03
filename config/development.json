@@ -1,5 +1,5 @@
 {
   "base_url": "https://router-us.knowledgeops.io/v1",
   "api_key": "sk-proj-KCGzIepCxwgTfK1vPp3Cq67Shah6XAVFPME1kHcT8J2oZQCK",
-  "model": "chat-default"
+  "model": "claude-sonnet-5-5"
 }
